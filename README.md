@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Tyler Chew!
+
+I'm a sophomore at **Stanford University** studying Computer Science with a minor in Music.
+
+I'm drawn to systems programming: understanding how things work close to the hardware, then measuring and optimizing them until the numbers move.
+
+Outside of code, I teach intro programming as a TA for Stanford's CS106A and play the piano.
+
+**Tools I use:** C, C++, Python, Java, Linux, GDB, Valgrind, Git, Vim
 
 <!--
 **tychew5407/tychew5407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
