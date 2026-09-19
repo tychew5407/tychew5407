@@ -2,7 +2,7 @@
 
 - 🏫 I'm a sophomore at **Stanford University** studying Computer Science with a minor in Music.
 - ⚙️ I'm drawn to systems programming, performance, and how things work under the hood.
-- 🎹 Outside of code, I teach intro programming as a TA for Stanford's CS106A and play the piano.
+- 🎹 Outside of code, I teach intro programming as a TA for Stanford's CS 106A and play the piano.
 
 **Tools I use:** C, C++, Python, Java, Linux, GDB, Valgrind, Git, Vim
 
